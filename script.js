@@ -73,7 +73,7 @@ if (form) {
 }
 
 // Typed effect in hero
-const titles = ['Cloud Infrastructure Engineer', 'DevOps Engineer', 'Terraform Expert', 'GCP & Azure Specialist'];
+const titles = ['Cloud Infrastructure Engineer', 'Software Engineer', 'DevOps Engineer', 'Terraform Expert', 'GCP & Azure Specialist'];
 let ti = 0, ci = 0, deleting = false;
 const typed = document.getElementById('typed-title');
 if (typed) {
